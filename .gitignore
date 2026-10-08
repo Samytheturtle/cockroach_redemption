@@ -1,0 +1,10 @@
+# Godot 4+ specific ignores
+.godot/
+
+# Documentación editable (Word)
+*.docx
+~$*.docx
+
+# Exportaciones
+export/
+*.tmp
