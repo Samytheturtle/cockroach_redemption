@@ -1804,7 +1804,7 @@
    "y0": 120,
    "y1": 200,
    "access": "Vano del motor",
-   "content": "Chispazos: baratija Pila de botón no, material Pila ×3 por día.",
+   "content": "Chispazos: material Pila ×3 por día de juego.",
    "hazard": "Descarga eléctrica (aturde 2 s) al tocar los bornes."
   },
   {
